@@ -1,0 +1,8 @@
+#!/bin/bash
+
+WALL="$(find "$HOME/.wallpapers" -name '*.jpg' -or -name '*.png' | wofi -d)"
+
+[ -n "$WALL" ] && swaybg -m fill -i "$WALL" &!
+
+echo "$WALL" > $HOME/.cache/wall
+

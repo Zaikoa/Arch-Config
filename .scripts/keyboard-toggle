@@ -1,0 +1,13 @@
+#!/bin/bash
+
+CACHE="$HOME/.cache/keyboard"
+[ ! -f "$CACHE" ] && echo "on" > "$CACHE"
+STATUS="$(cat $CACHE)"
+
+if [ "$STATUS" = "on" ]; then
+	echo "Turning keyboard off"
+	openrgb -p Keyboard-off && echo "off" > "$CACHE"
+else
+	echo "Turning keyboard on"
+	openrgb -p Keyboard-on && echo "on" > "$CACHE"
+fi
