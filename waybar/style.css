@@ -1,0 +1,74 @@
+* {
+   border: none;
+   font-family: BlexMono Nerd Font;
+   font-size: 10pt;
+}
+
+window#waybar {
+    background: transparent;
+    padding: 0;
+    margin: -1;
+}
+
+#clock,
+#battery,
+#network,
+#pulseaudio,
+#backlight,
+#tray,
+#sep,
+
+#workspaces button {
+    background: transparent;
+    border-radius: 15px;
+    color: #ffffff;
+}
+
+#workspaces button.active {
+	background: transparent;
+	color: #0096FF;
+	border-radius: 15px;
+}
+
+#custom-sep-l {
+    color: #ffffff;
+    padding: 0 6px;
+}
+
+#custom-sep-r {
+    color: #ffffff;
+    padding: 0 6px;
+}
+
+#tray {
+    padding: 4px 0;
+}
+
+#backlight {
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 4px 0;
+}
+
+#pulseaudio {
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 4px 0;
+}
+
+#clock {
+    color: #ffffff;
+}
+
+#battery {
+    color: #ffffff;
+    padding: 4px 0;
+    border-radius: 15px;
+}
+
+#network {
+    color: #ffffff;
+    padding: 4px 0;
+    border-radius: 15px;
+}
+

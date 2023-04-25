@@ -1,0 +1,50 @@
+set shell zsh
+set shellopts '-euy'
+set previewer ~/.config/lf/preview
+set icons true
+set drawbox true
+
+
+map q quit
+map dd delete
+map rd $IFS=':'; rm -rf $fx
+map . set hidden!
+map r push :rename<space>
+map <c-f> :fzf_jump
+map z zoxide
+
+
+cmd open &{{
+    case $(file --mime-type -Lb $f) in
+        text/*) lf -remote "send $id \$$EDITOR \$fx";;
+        *) for f in $fx; do $OPENER $f > /dev/null 2> /dev/null & done;;
+    esac
+}}
+
+cmd rename %[ -e $1 ] && printf "file exists" || mv $f $1
+
+cmd delete ${{
+  set -f
+  printf "$fx\n"
+  printf "delete?[y/n]"
+  read ans
+  [ "$ans" = "y" ] && rm -rf $fx
+}}
+
+
+cmd fzf_jump ${{
+    res="$(find . -maxdepth 1 | fzf --reverse --header='Jump to location' | sed 's/\\/\\\\/g;s/"/\\"/g')"
+    if [ -d "$res" ] ; then
+        cmd="cd"
+    elif [ -f "$res" ] ; then
+        cmd="select"
+    else
+        exit 0
+    fi
+    lf -remote "send $id $cmd \"$res\""
+}}
+
+cmd zoxide %{{
+	result="$(zoxide query --exclude $PWD $@)"
+	lf -remote "send $id cd $result"
+}}
