@@ -1,0 +1,544 @@
+Log file created at: 2023-03-04 23:18:29 4740 140452497627072
+2023-03-04 23:18:29 4740 140452497627072 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.registry.db
+2023-03-04 23:18:29 4740 140452497627072 storage/tiny_storage.cc(130) LOG(WARNING) cannot open:/home/jarett/.config/mozc/.registry.db
+2023-03-04 23:18:29 4740 140452497627072 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:18:29 4740 140452497627072 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:18:29 4740 140452491790016 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:18:29 4740 140452491790016 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:18:29 4740 140452491790016 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:18:29 4740 140452491790016 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:18:29 4740 140452497627072 config/config_handler.cc(238) LOG(ERROR) user://config1.db is not found
+Log file created at: 2023-03-04 23:20:16 1524 140667069278144
+2023-03-04 23:20:16 1524 140667069278144 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:20:16 1524 140667069278144 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:20:16 1524 140667063994048 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:20:16 1524 140667063994048 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:20:16 1524 140667063994048 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:20:16 1524 140667063994048 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:20:16 1524 140667069278144 config/config_handler.cc(238) LOG(ERROR) user://config1.db is not found
+2023-03-04 23:20:55 1524 140667046819520 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:20:55 1524 140667046819520 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:20:55 1524 140667063994048 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:20:55 1524 140667063994048 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:20:55 1524 140667063994048 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:20:55 1524 140667063994048 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:28:02 1524 140667046819520 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:28:02 1524 140667046819520 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:28:02 1524 140667063994048 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:28:02 1524 140667063994048 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:28:02 1524 140667063994048 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:28:02 1524 140667063994048 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:35:02 1524 140667046819520 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:35:02 1524 140667046819520 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:35:02 1524 140667063994048 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:35:02 1524 140667063994048 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:35:02 1524 140667063994048 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:35:02 1524 140667063994048 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:35:03 1524 140667046819520 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:35:03 1524 140667046819520 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:35:03 1524 140667063994048 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:35:03 1524 140667063994048 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:35:03 1524 140667063994048 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:35:03 1524 140667063994048 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+Log file created at: 2023-03-04 23:41:31 4595 139881492170688
+2023-03-04 23:41:31 4595 139881492170688 base/process_mutex.cc(198) LOG(WARNING) already locked
+2023-03-04 23:41:31 4595 139881492170688 server/mozc_server.cc(102) LOG(INFO) Mozc Server is already running
+Log file created at: 2023-03-04 23:58:18 1725 140034511878080
+2023-03-04 23:58:18 1725 140034511878080 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-04 23:58:18 1725 140034511878080 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-04 23:58:18 1725 140034506327744 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-04 23:58:18 1725 140034506327744 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-04 23:58:18 1725 140034506327744 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-04 23:58:18 1725 140034506327744 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-04 23:59:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:05 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささ, segments: {
+}
+
+2023-03-04 23:59:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあ, segments: {
+}
+
+2023-03-04 23:59:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤあ, segments: {
+}
+
+2023-03-04 23:59:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:07 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああ, segments: {
+}
+
+2023-03-04 23:59:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:09 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああＳＳＤあ, segments: {
+}
+
+2023-03-04 23:59:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:11 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああＳＳＤあＳあ, segments: {
+}
+
+2023-03-04 23:59:11 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:12 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああＳＳＤあＳあＳあ, segments: {
+}
+
+2023-03-04 23:59:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:12 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああＳＳＤあＳあＳあＦあ, segments: {
+}
+
+2023-03-04 23:59:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:13 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あささＳあＤああＳＳＤあＳあＳあＦあえ, segments: {
+}
+
+2023-03-04 23:59:13 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:13 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:14 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:14 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:14 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:16 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:16 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:19 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:20 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:26 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:27 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:27 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:36 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:41 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ＳＳＳＳＳＤＳＤＳＤＳＤＳＤＳ　, segments: {
+}
+
+2023-03-04 23:59:41 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:41 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:45 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:46 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-04 23:59:46 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:46 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああ, segments: {
+}
+
+2023-03-04 23:59:46 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:46 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああ, segments: {
+}
+
+2023-03-04 23:59:46 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:47 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああ, segments: {
+}
+
+2023-03-04 23:59:47 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:48 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:49 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓお, segments: {
+}
+
+2023-03-04 23:59:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:50 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓお, segments: {
+}
+
+2023-03-04 23:59:50 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:51 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:52 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓおｓお, segments: {
+}
+
+2023-03-04 23:59:52 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:53 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:53 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓおｓおｓお, segments: {
+}
+
+2023-03-04 23:59:53 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:54 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:54 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓおｓおｓおｓお, segments: {
+}
+
+2023-03-04 23:59:54 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:55 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:55 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓおｓおｓおｓおｋお, segments: {
+}
+
+2023-03-04 23:59:55 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:55 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:56 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああｓおｓおｓおｓおｓおｋおｋお, segments: {
+}
+
+2023-03-04 23:59:56 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:56 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:57 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-04 23:59:57 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:00 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:01 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-05 00:00:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:01 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああＳあ, segments: {
+}
+
+2023-03-05 00:00:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:03 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-05 00:00:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:03 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあ, segments: {
+}
+
+2023-03-05 00:00:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:16 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:35 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:36 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:36 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:36 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:38 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀, segments: {
+}
+
+2023-03-05 00:00:38 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あ, segments: {
+}
+
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あｓｓあ, segments: {
+}
+
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あｓｓあ, segments: {
+}
+
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あｓｓあｓｓあ, segments: {
+}
+
+2023-03-05 00:00:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:40 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:40 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あｓｓあｓｓあｓあ, segments: {
+}
+
+2023-03-05 00:00:40 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:40 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あＳあＳｓｄｓｄ｀あｓｓあｓｓあｓああ, segments: {
+}
+
+2023-03-05 00:00:40 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:00:59 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:00 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:02 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:03 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀, segments: {
+}
+
+2023-03-05 00:01:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀ｓｓｓｓｓｓあ, segments: {
+}
+
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀ｓｓｓｓｓｓあ, segments: {
+}
+
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:04 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀ｓｓｓｓｓｓああ, segments: {
+}
+
+2023-03-05 00:01:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀ｓｓｓｓｓｓああｓあ, segments: {
+}
+
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｓｓｄｓｄｓｄｄｄ｀ｓｓｓｓｓｓああｓあｓあ, segments: {
+}
+
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:05 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:08 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:09 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-05 00:01:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:09 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああ, segments: {
+}
+
+2023-03-05 00:01:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:09 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああ, segments: {
+}
+
+2023-03-05 00:01:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:10 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああ, segments: {
+}
+
+2023-03-05 00:01:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:10 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああああ, segments: {
+}
+
+2023-03-05 00:01:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:10 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああああ, segments: {
+}
+
+2023-03-05 00:01:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:11 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああああああ, segments: {
+}
+
+2023-03-05 00:01:11 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:12 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああああああああ, segments: {
+}
+
+2023-03-05 00:01:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:12 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:14 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:16 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:17 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:19 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:20 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: う, segments: {
+}
+
+2023-03-05 00:01:20 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:20 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえ, segments: {
+}
+
+2023-03-05 00:01:20 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:21 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:21 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:22 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓう, segments: {
+}
+
+2023-03-05 00:01:22 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:22 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえ, segments: {
+}
+
+2023-03-05 00:01:22 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえお, segments: {
+}
+
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえおあ, segments: {
+}
+
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえおあ, segments: {
+}
+
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえおあお, segments: {
+}
+
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: うえｓｓうえおあおあ, segments: {
+}
+
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:48 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:48 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:49 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:50 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｄｄｓあ, segments: {
+}
+
+2023-03-05 00:01:50 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:50 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:53 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:53 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: い, segments: {
+}
+
+2023-03-05 00:01:53 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:54 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: いえ, segments: {
+}
+
+2023-03-05 00:01:54 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:55 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: いえう, segments: {
+}
+
+2023-03-05 00:01:55 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:55 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: いえうお, segments: {
+}
+
+2023-03-05 00:01:55 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:57 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:58 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｀, segments: {
+}
+
+2023-03-05 00:01:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:01:58 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:01 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:02 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-05 00:03:02 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:02 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:03 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ, segments: {
+}
+
+2023-03-05 00:03:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:03 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀, segments: {
+}
+
+2023-03-05 00:03:03 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:04 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ, segments: {
+}
+
+2023-03-05 00:03:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀, segments: {
+}
+
+2023-03-05 00:03:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀, segments: {
+}
+
+2023-03-05 00:03:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:06 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀, segments: {
+}
+
+2023-03-05 00:03:06 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:07 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:07 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:07 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:07 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:08 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:08 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:08 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:08 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:09 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:09 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:10 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀｀｀｀｀, segments: {
+}
+
+2023-03-05 00:03:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:10 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:13 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:13 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あｓあ｀ｓｓｄｓｄあ｀｀｀｀｀｀｀｀｀｀ｓｓあ, segments: {
+}
+
+2023-03-05 00:03:13 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:15 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:17 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あ, segments: {
+}
+
+2023-03-05 00:03:17 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:18 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああ, segments: {
+}
+
+2023-03-05 00:03:18 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:18 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああ, segments: {
+}
+
+2023-03-05 00:03:18 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:19 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ああ, segments: {
+}
+
+2023-03-05 00:03:19 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:03:19 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: あああ, segments: {
+}
+
+2023-03-05 00:03:19 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:08:21 1725 140034489218752 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-05 00:08:21 1725 140034489218752 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-05 00:08:21 1725 140034506327744 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-05 00:08:21 1725 140034506327744 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-05 00:08:21 1725 140034506327744 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-05 00:08:21 1725 140034506327744 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-05 00:08:21 1725 140034489218752 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-05 00:08:21 1725 140034489218752 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-05 00:08:21 1725 140034506327744 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-05 00:08:21 1725 140034506327744 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-05 00:08:21 1725 140034506327744 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-05 00:08:21 1725 140034506327744 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-03-05 00:09:22 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:22 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:23 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:24 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:25 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:25 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:28 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:28 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:28 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:37 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｄｓｄｓあ, segments: {
+}
+
+2023-03-05 00:09:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:09:39 1725 140034489218752 session/session_converter.cc(1692) LOG(WARNING) ReconstructHistory failed. preceding_text: ｓｄｓｄｓあｄあ, segments: {
+}
+
+2023-03-05 00:09:39 1725 140034489218752 composer/table.cc(656) LOG(WARNING) Unregistered special key: ?
+2023-03-05 00:10:29 1725 140034489218752 dictionary/user_dictionary.cc(254) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/jarett/.config/mozc/user_dictionary.db: No such file or directory
+2023-03-05 00:10:29 1725 140034489218752 dictionary/user_dictionary.cc(492) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-03-05 00:10:29 1725 140034506327744 base/mmap.cc(154) LOG(WARNING) open failed: /home/jarett/.config/mozc/.history.db
+2023-03-05 00:10:29 1725 140034506327744 storage/encrypted_string_storage.cc(73) LOG(ERROR) cannot open user history file
+2023-03-05 00:10:29 1725 140034506327744 prediction/user_history_predictor.cc(243) LOG(ERROR) Can't load user history data.
+2023-03-05 00:10:29 1725 140034506327744 prediction/user_history_predictor.cc(476) LOG(ERROR) UserHistoryStorage::Load() failed

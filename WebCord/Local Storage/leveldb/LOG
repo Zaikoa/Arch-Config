@@ -1,0 +1,18 @@
+2023/04/26-18:39:34.902 706 Reusing MANIFEST /home/jarett/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2023/04/26-18:39:34.906 706 Recovering log #724
+2023/04/26-18:39:34.907 706 Reusing old log /home/jarett/.config/WebCord/Local Storage/leveldb/000724.log 
+2023/04/26-18:40:41.857 707 Level-0 table #728: started
+2023/04/26-18:40:41.904 707 Level-0 table #728: 47155 bytes OK
+2023/04/26-18:40:41.909 707 Delete type=0 #724
+2023/04/26-18:41:41.848 707 Level-0 table #730: started
+2023/04/26-18:41:41.952 707 Level-0 table #730: 1559141 bytes OK
+2023/04/26-18:41:41.957 707 Delete type=0 #727
+2023/04/26-18:41:41.958 707 Compacting 4@0 + 1@1 files
+2023/04/26-18:41:42.024 707 Generated table #731@0: 72 keys, 1627530 bytes
+2023/04/26-18:41:42.024 707 Compacted 4@0 + 1@1 files => 1627530 bytes
+2023/04/26-18:41:42.028 707 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/26-18:41:42.029 707 Delete type=2 #723
+2023/04/26-18:41:42.029 707 Delete type=2 #730
+2023/04/26-18:41:42.029 707 Delete type=2 #725
+2023/04/26-18:41:42.029 707 Delete type=2 #728
+2023/04/26-18:41:42.029 707 Delete type=2 #721
