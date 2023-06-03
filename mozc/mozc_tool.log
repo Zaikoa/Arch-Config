@@ -1,7 +1,0 @@
-Log file created at: 2023-03-04 23:20:29 1550 140089910054144
-Log file created at: 2023-03-04 23:27:24 2530 140463876345088
-Log file created at: 2023-03-04 23:34:35 3722 139983771954432
-Log file created at: 2023-03-05 00:07:34 5896 140524451302656
-2023-03-05 00:07:34 5896 140524451302656 gui/base/debug_util.cc(49) LOG(WARNING) QSocketNotifier: Can only be used with threads started with QThread
-Log file created at: 2023-03-05 00:10:20 6604 139826019118336
-2023-03-05 00:10:20 6604 139826019118336 gui/base/debug_util.cc(49) LOG(WARNING) QSocketNotifier: Can only be used with threads started with QThread
