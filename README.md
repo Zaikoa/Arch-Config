@@ -1,10 +1,20 @@
-# Config Files
+Arch configuration files
+-Wayland
+-Hyprland
+-Waybar
+-systemd
+-OpenRGB
 
+-foot
+-lf
+-neofetch
+-wlogout
+-btop
 
-Keyboard script requires a folder in .cache/keyboard
+-qalculate
+-webcord
+-swaylock
+-wofi
 
-Sreenshot script requires a folder in $HOME/Pictures/Screenshots ; $_SCREENSHOT_DIR_/Original
-
-Wpaper script requires a folder in $HOME/.cache/wall ; $HOME/.wallpapers
-
-.zshrc requires a cache location for .histfile ; $XDG_CACHE_HOME/zsh/.zhistory
+-yay
+-zsh
