@@ -1,6 +1,0 @@
-2023/04/22-11:46:18.644 40d1 Reusing MANIFEST /home/jarett/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
-2023/04/22-11:46:18.645 40d1 Recovering log #310
-2023/04/22-11:46:18.646 40d1 Reusing old log /home/jarett/.config/notion-app/Partitions/notion/Local Storage/leveldb/000310.log 
-2023/04/22-11:47:19.191 40d1 Level-0 table #314: started
-2023/04/22-11:47:19.259 40d1 Level-0 table #314: 368041 bytes OK
-2023/04/22-11:47:19.264 40d1 Delete type=0 #310
